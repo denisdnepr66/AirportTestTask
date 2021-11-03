@@ -7,7 +7,7 @@ Open terminal and clone the directory
 Open project with ide
 
 The application uses MySQL Database.
-1. Create (connect) to the database. By default database name - "flights", user - "root", passowrd - "password"
+1. Create (connect) to the database. By default database name - "flights", user - "root", passowrd - "password" (please make sure that the link for the database and credentials are correct in [this file](https://github.com/denisdnepr66/AirportTestTask/blob/master/src/main/resources/application.properties "application.properties"))
 2. Run Spring Application 
 3. Use [data.sql](https://github.com/denisdnepr66/AirportTestTask/blob/master/src/main/resources/static/data.sql "data.sql") to fill the database with data
 
